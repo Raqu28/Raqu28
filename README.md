@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Sonia 👋
 
-<!--
-**Raqu28/Raqu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2.º año de la **Tecnicatura Superior en Desarrollo de Software**. Me apasiona el aprendizaje continuo, resolver problemas mediante el código y desarrollar soluciones funcionales tanto en la web como en aplicaciones móviles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes & Frontend:** HTML5, CSS3, JavaScript, Java, XML
+* **Mobile & UI/UX:** Android Studio, Figma
+* **Control de versiones:** Git, GitHub
+
+---
+
+### 📌 Proyectos Destacados
+
+* **[pfo1-portafolio-sonia](https://github.com/Raqu28/pfo1-portafolio-sonia):** Landing page de portafolio personal (HTML & CSS).
+* **Aplicación Mobile (Android Studio):** Desarrollo de app nativa enfocada en la gestión de usuarios, perfiles y turnos.
+
+---
+
+### 📊 Mis estadísticas de GitHub
+
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Raqu28&show_icons=true&theme=tokyonight)
+
+---
+
+📫 **¡Conectemos!**
+* **GitHub:** [@Raqu27](https://github.com/Raqu27)
