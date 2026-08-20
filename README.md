@@ -26,4 +26,4 @@ Estudiante de 2.º año de la **Tecnicatura Superior en Desarrollo de Software**
 ---
 
 📫 **¡Conectemos!**
-* **GitHub:** [@Raqu27](https://github.com/Raqu27)
+* **GitHub:** [@Raqu28](https://github.com/Raqu28)
